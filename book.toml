@@ -1,0 +1,12 @@
+[book]
+authors = ["Bui Quang Huy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Lab 8"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+additional-js = ["external-link.js"]
+additional-css = ["custom.css"]
