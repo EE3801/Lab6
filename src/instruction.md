@@ -26,8 +26,7 @@ They are:
 When you see:
 
 ```shell
-[some path here] 
-$
+[some path here] $
 ```
 
 The thing above is known as the prompt, it is where you enter your command and send to your shell. The area immediate to the right of the `$` is known as the command-line. You can read more about it [here](https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/). 
