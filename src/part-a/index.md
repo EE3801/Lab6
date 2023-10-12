@@ -24,6 +24,6 @@ This part consists of:
 >
 > before:
 >
-> <p class="warn"> [TBD]
+> <p class="warn"> the end of the lab session at 2 pm on Nov 6th (Monday)
 >
 > in **PDF format only**, and name the file `Lab8A_YourName.pdf`
