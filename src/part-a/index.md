@@ -23,6 +23,7 @@ This part consists of:
 > - Step [23](4.md#23)
 >
 > Repeat these steps from Lab 5:
+> - Step [34](https://ee3801.github.io/Lab5/part-a/5.html#34) (showing that you only have 1 instance and 1 volume running)
 > - Step [36](https://ee3801.github.io/Lab5/part-a/5.html#36)
 > - Step [37](https://ee3801.github.io/Lab5/part-a/5.html#37)
 > - Step [75](https://ee3801.github.io/Lab5/part-b/11.html#75)
