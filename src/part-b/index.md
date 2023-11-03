@@ -14,7 +14,7 @@ This part consists of:
 > Submit the following task for lab report for Part B: 
 > - Step [17](4.md#17)
 > - Step [18](4.md#18)
-> - Step [18](4.md#18)
+> - Step [18](4.md#19)
 > - Step [21](4.md#21)
 > - Step [22](4.md#22)
 > - Step [23](4.md#23)
