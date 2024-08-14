@@ -16,7 +16,3 @@ They are:
 > <p class="warn"> Warning
 >
 > This contains special information that we need your attention to or else something will be broken, fail to run or worse **COST YOU A LOT OF MONEY**.
-
-
-## Some extra tips to make your life easier (optional but recommended)
-*contact Huy at `quanghuy@u.nus.edu` or catch him during tutorial / lab if you have any problems installing any of these softwares.*
