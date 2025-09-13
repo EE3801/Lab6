@@ -23,8 +23,7 @@ This part consists of:
 > - Step [31](7.md#31)
 > - Step [33](7.md#33)
 > - Step [34](7.md#34)
-> - Step [36](7.md#36)
-> - Step [37](7.md#37)
+> - Step [35](7.md#35)
 >
 > before:
 >
